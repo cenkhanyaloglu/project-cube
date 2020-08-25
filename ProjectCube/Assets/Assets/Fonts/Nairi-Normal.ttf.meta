@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4433b8b96872a224b84f1836a45a1d91
+timeCreated: 1515672000
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nairi
+  fontNames:
+  - Nairi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 306fa95586154e94c801130caf1432a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
